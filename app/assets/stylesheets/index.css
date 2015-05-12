@@ -1,0 +1,16 @@
+.vertical-center{
+	min-height:100%;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+.index{
+	max-width: 340px;
+	margin-top: -5%;
+}
+.future{
+	width: 70px;
+	height: 70px;
+	display:inline-block;
+	border-radius: 6px;
+}
